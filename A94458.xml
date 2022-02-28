@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable house of novv Commons assembled in Parliament. The humble petition of many thousands of clothiers, weavers, bay-makers, serge-makers, say-makers, clothworkers, and worsted-combers with the realme of England, whose names are hereunder written, aswell for and on the behalfe of themselves as of all other persons that trade and deale in wooll, and the using and imploying thereof, in the making of cloth, stuffes and other manufacturers of vvooll within the said kingdome and the dominion of Wales, subscribed unto also by divers merchants and woollen-drapers of London for themselves and on the behalfe of the rest who are concerned therein, being dealers and adventurers of the commodities made of vvooll.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94458</idno>
+            <idno type="STC">Wing T1417</idno>
+            <idno type="STC">Thomason 669.f.11[2]</idno>
+            <idno type="STC">ESTC R210398</idno>
+            <idno type="EEBO-CITATION">99869202</idno>
+            <idno type="PROQUEST">99869202</idno>
+            <idno type="VID">162653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162653)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable house of novv Commons assembled in Parliament. The humble petition of many thousands of clothiers, weavers, bay-makers, serge-makers, say-makers, clothworkers, and worsted-combers with the realme of England, whose names are hereunder written, aswell for and on the behalfe of themselves as of all other persons that trade and deale in wooll, and the using and imploying thereof, in the making of cloth, stuffes and other manufacturers of vvooll within the said kingdome and the dominion of Wales, subscribed unto also by divers merchants and woollen-drapers of London for themselves and on the behalfe of the rest who are concerned therein, being dealers and adventurers of the commodities made of vvooll.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.I. and are to be sold by William Hunt in Pye-Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill: 12."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162653:1" rendition="simple:additions"/>
+            <head>To the Honourable Houſe of novv Commons aſſembled IN PARLIAMENT.
+The humble Petition of many Thouſands of Clothiers, Weavers, Bay-makers, Serge-makers, Say-makers, Clothworkers, and Worſted-Combers within the Realme of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> whoſe names are hereunder written, Aſwell for and on the behalfe of themſelves as of all other perſons that trade and deale in Wooll, and the uſing and imploying thereof, In the making of Cloth, Stuffes and other Manufactures of VVooll within the ſaid Kingdome and the Dominion of <hi>Wales,</hi> Subſcribed unto alſo by divers Merchants and Woollen-Drapers of <hi>London</hi> for themſelves and on the behalfe of the reſt who are concerned therein, being dealers and Adventurers of the Commodities made of VVooll.</head>
+            <opener>Sheweth,</opener>
+            <p>THat whereas the Woolls of the growth of this Kingdome, and of the ſaid Dominion, are the principall and chiefeſt Staple Commoditie thereof, and that by the uſing of the ſaid Woolls in the making of Clothes and Stuffes of the old and new Draperie, and other Manufactures, many thouſand of Families have heretofore had their ſole livelihood and ſubſiſtence, and in reſpect of the Cuſtomes for the exportation of ſuch Clothes, Stuffes, and other Manufactures into forraigne parts, have brought to this Kingdome a great Revenue, and the makers thereof from time to time been inabled in the paiment of ſuch Subſidies and Taxes, as by this State hath been required from them. The conſideration whereof heretofore moved the wiſedome of this State in former times to make and provide divers good Lawes for the preventing of the fraudes and deceipts uſed in the winding up and ſale of Wooll, whereby it was provided that none ſhould winde, or cauſe or ſuffer to be wound and ſold any fleece of Wooll, the ſame not being firſt ſufficiently waſhed, nor wind nor ſuffer to be wound within any Fleece of Wooll, any Lambs-Wooll, Refuſe-Wooll, Cat, Tarre, Taile-lockes, Cleg-lockes, Hinder-ſhanks, Claydung, Cumber, or any other filth or traſh, whereby the fleece may become more weighty to the deceipt and loſſe of the buyer, upon paine <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſeller of any ſuch deceiptfull Wooll, to forfeit for every fleece of Wooll ſo ſold ſix pence. The omiſſion and neglect of the due execution of which and other good Lawes tending thereunto, hath emboldened owners of Sheep, and other uſuall ſellers of Wooll, as Staplers, Ingroſſers, Fellmongers, Jobbers, Brogers, and others in latter times to practiſe and uſe more deceits and abuſes, and <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſell and utter more deceivable Wooll and traſh made up therein then are hereby before expreſſed, or hath been in the winding of Wooll formerly practiſed: For that beſides the deceipts as afore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid uſed, whereas Farmers and other Owners of Sheep have uſually heretofore ſhorne their ſheep within three or foure dayes next after their waſhing, and if they goe longer unſhorne, and put into, or ſuffered to goe into Fallow-fields, or High-wayes, it is needfull they ſhould be waſhed againe before ſhorne; They now in divers Counties and places of this Kingdome doe commonly after the Sheep are waſhed, however the weather fall out, let them goe unſhorne, aſwell in Fallow-fields and High-wayes, as Paſture-grounds, by the ſpace of two or three weeks together, and never waſh them againe, which doth cauſe them to ſweate and gather ſoyle, and make the Wooll the more weighty; And that Fellmungers by their not well waſhing and not well drying their Wooll, doth cauſe ſo ſold oftentimes to ſhrinke two pound weight at the leaſt in every twenty pounds weight thereof, beſides the great deceipts uſed in moſt parts of this Kingdome, by putting up of all ſorts of Wooll toge<g ref="char:EOLhyphen"/>ther, and by the needleſſe and too often branding of ſheep with great brandmarkes of pitch, and that at divers and ſundry times in the yeare, on ſeverall parts on the Sheep, and commonly in the pla<g ref="char:EOLhyphen"/>ces where the Wooll is beſt, and moſt uſually not long before they are ſhorne, which doth cauſe the ſame to be much the more weighty; And the Petitioners for the moſt part carrying the ſame by wa<g ref="char:EOLhyphen"/>ter, whereby or otherwiſe taking wet, cauſeth the ſame to heate, and thereby to melt the ſaid pitch-markes, which by running through the Wooll doth ſpoile a great part thereof, and hinder the dividing and working of the ſame; And the Petitioners thereby conſtrained to cut off and caſt away ſuch pitch-markes, the charge whereof (beſides the loſſe of the Wooll which is the greateſt) is very conſi<g ref="char:EOLhyphen"/>derable to the Petitioners, beſides the Wooll that is loſt in the Common-wealth thereby; The cutting of which brands at the ſheering of the Sheep would be very little or no charge to the Owners of the Sheep (if there were any need ſo to brand them) By all which before mentioned fraudes and deceipts the Petitioners are very great looſers: Foraſmuch therefore as the Petitioners and others that trade and deale in Wooll, and the uſing and imploying thereof in making of Cloth and other Manufactures of Wooll by reaſon of the remoteneſſe and diſtance of their reſpective habitati<g ref="char:EOLhyphen"/>ons from the ſeverall Counties and places where the moſt part of the ſaid Woolls doe grow, cannot poſſibly diſcover the abuſes and deceipts ſo as aforeſaid practiſed in the winding up and ſale of Wooll, or otherwiſe concerning Wooll, and for that the exhibiting, commencing, and proſecution in the Courts at Weſtminſter or elſewhere of ſeverall Informations, Actions and ſuites in Law againſt the ſaid Offenders as in ſuch caſes hath been uſually, will tend to the Petitioners great charge and expences, the neglect of their ſeverall Trades and Callings, and in fine the remedy become worſe then the diſeaſe; And for that the Petitioners many of them on the behalfe of the reſt have this yeare ſeverall times, and their Agents more conſtantly attended this Honourable Houſe to procure a re<g ref="char:EOLhyphen"/>dreſſe for theſe grievances having too long undergone the ſaid grievances. May it therefore pleaſe this Honourable Aſſembly, That if it ſeem good to your wiſedomes for the redreſſe of ſuch miſchiefes as aforeſaid, a penalty upon every ſcore of faulty Fellwooll may be ſet and impoſed, and that the ſaid forfeiture of ſix pence upon every fleece of deceiptfull Wooll that ſhall be hereafter ſold, may be increaſed, and that in ſuch places where there is no Woolls carried to any Markets to be ſold, convenient Markets may be appointed whither the Owners of Wooll may bring their Wooll to ſell. And for that it manifeſtly appeares that the want of Commiſſioners and Officers to enquire of the fraudes and deceipts uſed in and about Wooll, and to ſee the Lawes put in execution, is the cauſe of the growing and increaſe thereof; If it may therefore ſtand with the wiſedome and pleaſure of this Honourable Houſe, It is the Petitioners humble ſute, That Commiſſioners and Officers may be appoin<g ref="char:EOLhyphen"/>ted to ſee the Law made, or ſuch as ſhall be made touching the premiſſes, put in due execution. And your Petitioners will be willing to afford a conſiderable allowance for their charges, care, paines and encouragement in the faithfull diſcharge of the truſt in them to be repoſed. And it is the Petitioners humble deſire, that they may be ſuch as they have truſted with the managaing and proſecution of this ſuite, If it ſhall likewiſe ſtand with the good liking of this Honourable Houſe, when the ſaid perſons and ſaid allowance ſhall be preſented.</p>
+            <p>The Petitioners further humbly ſhewing, That whereas by divers other good Lawes heretofore made, it was enacted, That no perſon whatſoever ſhould tranſport any Wooll or Wooll-fels; And whereas by divers other good Laws it was alſo enacted, though now repealed, That no perſon or perſons whatſoever ſhould buy any Wooll but only to or for his or their only proper uſe and uſes, and to make Cloth and other Manufactures thereof, or ſell or cauſe to be ſold, or ſend or cauſe to be ſent Woolls to any Market, or elſe where to be ſold other then ſuch Woolls as are of his or their owne grow<g ref="char:EOLhyphen"/>ing, nor buy any Wooll to ſell the ſame again unwrought; Notwithſtanding which ſaid Lawes as aforeſaid made againſt the tranſporting of Wooll, there hath been for divers yeares laſt paſt, more eſpecially of late yeares, great quantities both of Wooll and Fullers earth tranſported into Forraigne parts, and ſo conſequently the Trade of making of Clothes and Stuffes, and other Manufactories of Wooll, where they have now (as the Petitioners have been credibly informed) ſuch great quantities of Wooll which they have had from hence heretofore at low rates, that they are able to afford the ſaid Woolls and the Commodities made thereof cheaper then they can now be afforded here, That if the tranſporting of Wooll and Fullers earth be not prevented, the Trade will be very much in time carried from hence thither, and this Kingdome likely to be very much impoveriſhed thereby; whereas if the Wooll and Fullers earth thereof were kept within it, Clothes and other Manufa<g ref="char:EOLhyphen"/>ctures of Wooll ſuch as are made here could not any where elſe be afforded ſo cheap, or made ſo well without our Wooll and Fullers earth as here, Nor can any great quantities be had elſewhere, And ſo the Trade would be kept here to the enriching of this Nation, and the ſetting the poore thereof on worke as the Petitioners humbly conceive. And the ſaid Lawes againſt buying and ſelling of Wooll againe unwrought being as aforeſaid repealed; The ſaid Staplers, Fellmongers, Jobbers and Brogers are become the principall Ingroſſers of Wooll; And the Petitioners verily beleeve that they will alſo appeare to be the chiefeſt tranſporters thereof, and finde that they by buying and ingroſſing the ſame into their hands, doe uſe much deceipt in packing up thereof, and mixing therewith ſand and water, or otherwiſe corrupting of it, whereby it becomes to be more weighty. That the ſaid buyers of Wooll doe ſome of them ſometimes forthwith ſell the ſame againe at the Market where it was bought cheaper then they did buy it, and yet are gainers by the ſale thereof. The ſaid Jobbers and Brogers and the like alſo uſually foreſtalling the Market in buying of Woolls by the way as they are going thither, and ſelling them at the ſame Market where they were to have been ſold by the grower. And the Petitioners have ſince the ſaid Law was repealed, been conſtrained to buy moſt part of the Wooll they uſe at the ſecond and third hands, and now of late at more hands, which doth not only inhaunce the price of the Manufactories made thereof, and tend to the decay of Trading here, and hinderance of the ſetting on worke, and the impoveriſhing, and in time, if not prevented, to the utter undoing of many thouſand of Families having their dependance of the ſaid Wooll-commodities, but alſo to the increaſe and advancement of the ſaid Trades of making Clothes and Stuffes, and other Manufactories of Wooll in Forraigne parts, and the loſſe of the Cuſtomes to be paid upon them in caſe the ſame were made here: And the buying and ſelling againe of Wooll unwrought by reaſon of the Law againſt it repealed as aforeſaid, being ſo prejudiciall to the Petitioners, and as they conceive to the Com<g ref="char:EOLhyphen"/>mon-wealth, It is their humble ſuite, that the ſaid Statute may be againe revived and ſtand in force.</p>
+            <p>And the Petitioners humbly conceiving that unleſſe it be made Felony to tranſport not only Sheep but Wooll, Wooll fells, Yarne, Fullers-earth, and Fulling-Clay into Forraigne parts, and alſo the loſſe of Ship and Veſſell, and all therein, wherein any ſuch goods ſhall be tranſported, The tranſporters thereof will hardly be wholly or to any purpoſe reſtrained; It is therefore the Petitioners hum<g ref="char:EOLhyphen"/>ble ſute, if it ſhall ſtand with the wiſedome of this Honourable Houſe, That the tranſporting of the Commodities aforeſaid may be made Felony and loſſe of all as aforeſaid, or otherwiſe, as to your grave wiſedomes ſhall ſeeme meet.</p>
+            <p>And that for the preventing the tranſporting the ſaid Commodities, and the putting in execution the ſaid Law againſt the buying and ſelling of Wooll againe unwrought if it be revived as is deſired, or ſuch other Lawes as ſhall be made touching the ſame; It is the Petitioners humble ſute, That the aforeſaid deſired Commiſſioners and Officers may be appointed, and ſome proviſion made for their charges, time, care and paines therein, if to your Honours it ſhall ſeeme good.</p>
+            <p>And further the Petitioners humbly ſhew, That whereas by the working and making of Wooll into Cloathes, Stuffes, and other Manufactures, many Thouſand of Families have for many Ages paſt<g ref="char:EOLhyphen"/>obtained and had their ſole meanes of livelihood and ſubſiſtence, and the Trades, Arts, and Miſteries ariſing from Wooll, tending to the ſupportation of the Common-wealth, are greatly fallen and de<g ref="char:EOLhyphen"/>cayed by reaſon of many abuſes practized; particularly, for that contrary to the Lawes of this Kingdome, many have preſumed to take upon them the ſaid Trades, who never ſerved an Apprentiſhip thereunto, <hi>(viz,)</hi> FarmersSonnes, and divers others that have other Trades and meanes of livelihood, by giving of Money have attained to ſome ſmall knowledge therein, but for want of skill and abi<g ref="char:EOLhyphen"/>litie have made ſuch bad and deceitfull Ware, that it hath cauſed our Cloathes and Stuffes to be diſeſteemed and unliked, not only here, but in Forraigne Parts, by reaſon whereof, your Petitioners are not only deprived of the profit of their labours, but others are thereby diſcouraged from putting their Children Apprentices to the ſaid Trades, albeit the ſame is the only way to make them skillfull in uſing and managing of the ſaid Trades as they ought to be; and have cauſed many of the ſaid Trades, Arts, and Niſteries, to go into Forraigne Parts, there to ſet up and teach the ſaid Trades, Arts, and Miſteries to Aliens and Strangers, which tends to the decay of the ſaid Trades here within this Kingdome, and the impoveriſhing of many Thouſands of Families which have their dependancy upon the ſaid Trade, Art, and Myſtery.</p>
+            <p>May it therefore pleaſe this Honourable Aſſembly, That no Perſon or Perſons within this Kingdome or Dominion of <hi>Wales,</hi> ſhall or may hereafter uſe or exerciſe the ſaid Trade, but ſuch only as ſhall firſt have ſerved as Apprentices thereunto for the Terme of Seaven yeares at the leaſt, nor any that have lately entred upon the ſaid Trades who have not ſerved as Apprentice any time thereunto: And if it ſhall ſtand with the liking of this Honourable Houſe, That Commiſſioners and Officers may be appointed to ſee the ſaid Lawes made or to be made, put in due execution, which the Petitioners pray may be ſuch as are before deſired; And that ſuch recompence may be allowed them for their care and paines therein, as to the wiſdome of this Honourable Houſe ſhall be thought fit, which the Petitioners ſhall be willing to afford them,</p>
+            <closer>and pray, &amp;c.</closer>
+         </div>
+         <div type="response">
+            <p>
+               <hi>THis Petition was preferred to the Honourable Houſe of Commons, and a ſpeciall Committee, being appointed by the ſaid Houſe to take the ſame into conſideration, The matter was before the ſaid Com<g ref="char:EOLhyphen"/>mittee ſeverall dayes debated by Counſell on the part of the Petitioners, and of the Merchants of the Staple of</hi> England: <hi>But in regard the buſineſſe was of a generall concernment, leave was given to Print the Petition, that notice might be taken thereof in the ſeverall parts of the Kingdome before the next ſitting of that Honourable Committee, which will be the ſecond</hi> Wedneſday <hi>in</hi> Eaſter <hi>Terme next, being the Twelfth of</hi> May.</p>
+            <p>
+               <hi>The Petitioners have Printed and diſperſed the ſaid Petition, and have without warrant inſerted, that many Thouſands (whereof ſome are mentioned to be of more ſpeciall quality) have ſubſcribed it. Whereupon, occaſion is given to recommend to the conſideration of all Wooll-growers, and others concerned in the ſaid buſineſſe (who far exceed in number thoſe that ſubſcribed the Petition) how in<g ref="char:EOLhyphen"/>convenient it will be to the Wooll-growers and others, and deſtructive to the Kingdome, if the Petitioners ſhall be the ſole and only Buyers of all the Wooll of the Kingdome, and Merchants of the Staple be prohibited, and none to be permitted but the Petitioners to buy any Wooll. And if the Wooll-growers and others ſhall apprehend ſuch the Petitioners endeavour to be a common dammage, Then by all juſt waies to endeavour to prevent the Petitioners therein.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>S. I.</hi> and are to be ſold by <hi>William Hunt</hi> in Pye-Corner. 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
